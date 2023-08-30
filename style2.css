@@ -29,8 +29,7 @@ body {
     width: 40%;
     border: 2px solid #2bbcff;
     border-radius: 2.5rem;
-    background: rgb(193, 108, 0);
-    background: linear-gradient(90deg, rgba(201, 70, 0, 1) 0%, rgba(252, 140, 49, 1) 39%, rgba(201, 70, 0, 1) 100%);
+    background-color: #0a73d6;
 }
 
 button {
@@ -43,8 +42,9 @@ button {
     font-size: 1rem;
     text-transform: capitalize;
     cursor: pointer;
+    color: white;
     transition: .3s ease-in-out;
-    background-color: #fc8c31;
+    background-color: #00b9f1;
 }
 
 p {
@@ -54,8 +54,7 @@ p {
 
 button:hover {
     text-decoration: underline;
-    background-color: #c94600;
-    color: white;
+    color: black;
 }
 
 /* header styling */
